@@ -1,7 +1,7 @@
-## Data science & Business analytics
+## EXCEL REPOSITORY
 
-👋 Hi, I am Julián, a **Big Data** lover.
+👋 Hi, this space is for you to be able to play with all my **Excel** projects.
 <br></br>
-🖥️ This is a *public* space to store datasets which will be used to feed Big Data projects.
+🖥️ This is a *public* space, so feel free to download any file you may find interesting.
 <br></br>
 💡 Remember: "The value of an idea lies in the using of it”
